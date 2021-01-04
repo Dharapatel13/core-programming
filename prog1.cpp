@@ -7,7 +7,7 @@ print it. */
 int main()
 {
 	int a[50],n ,t;
-	
+	//ghjk
 	printf("enter the num of element in array");
 	scanf("%d",&n);
 	printf("enetr the elements\n");
